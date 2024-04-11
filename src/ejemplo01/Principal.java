@@ -8,6 +8,8 @@ public class Principal {
 		int num = 0;
 		
 		num = 2+2;
+		
+		num = 2-1;
 
 	}
 

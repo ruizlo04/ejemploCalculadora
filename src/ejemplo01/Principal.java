@@ -12,6 +12,8 @@ public class Principal {
 		num = 2-1;
 		
 		num = 2*2;
+		
+		num = 2/2;
 
 	}
 

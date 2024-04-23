@@ -10,10 +10,5 @@ public class MainController {
 	public String sayHello() {
 		return "index";
 	}
-	
-	@GetMapping("/r")
-	public String sayHello1() {
-		return "index";
-	}
 
 }

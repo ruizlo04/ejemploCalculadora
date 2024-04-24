@@ -17,6 +17,8 @@ public class Principal {
 		
 		System.out.println("He cambiado esta rama");
 		System.out.println("Nueva rama creada");
+		
+		num = num+num;
 
 	}
 
